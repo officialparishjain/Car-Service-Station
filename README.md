@@ -47,6 +47,25 @@ The purpose of this project is to provide a basic car service bill generator tha
 |     |              | **Total Bill**    | **₹13000** |
 
 
+## Step wise Step Explanation
+- Step 1 : Select the car type
+  ![image](https://github.com/officialparishjain/Car-Service-Station/assets/124424043/8ed2a3c4-a55f-40cd-9db0-570d83bcec8d)
+
+- Step 2: Select type of services do you want first put how many type of services you want and then select services
+  ![image](https://github.com/officialparishjain/Car-Service-Station/assets/124424043/6d946a1c-a2f7-42dd-a1dd-0bc0f1e18a87)
+
+- Step 3: Then the bill will generated
+  ![image](https://github.com/officialparishjain/Car-Service-Station/assets/124424043/eb282a54-aecc-450f-9c5f-371832471318)
+
+- Step 4: For exit 
+- ![image](https://github.com/officialparishjain/Car-Service-Station/assets/124424043/c24863e3-8b4b-4de9-9d73-ad2acb6355ab)
+
+## Features
+- If Total Bill go abobe Rs 10000 user will get car Washing Free
+![image](https://github.com/officialparishjain/Car-Service-Station/assets/124424043/3528de99-961a-44d8-905f-ef4aa6bda9b4)
+
+
+
 ## Authors
 
 - Name : Parish Jain
